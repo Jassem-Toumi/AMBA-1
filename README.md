@@ -41,3 +41,4 @@ To run the frontend application:
 To run backend:
 - uvicorn main:app --reload
 
+![alt text](image.png)
